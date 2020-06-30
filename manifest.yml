@@ -1,0 +1,6 @@
+applications:
+- name: spring-google
+path: target/spring-google-cloud.jar
+domain: cfapps.io
+memory: 950M
+instances: 1
